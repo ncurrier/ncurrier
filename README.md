@@ -1,25 +1,26 @@
-# NATHANIEL CURRIER
-> Architecture for Intelligent Systems
+# NAT CURRIER
+> Systems with a Human Pulse
 
-I am an AI and Cloud Architect serving as a Principal Consultant and fractional CTO. My focus is on designing, engineering, and scaling applied artificial intelligence and resilient cloud infrastructure. 
-
-### EXPERTISE
-* **Applied AI:** Designing and implementing intelligent systems for enterprise and specialized use cases.
-* **Cloud Architecture:** Structuring scalable, secure, and highly available infrastructure.
-* **Technical Strategy:** Fractional CTO leadership, guiding engineering teams from conceptual design through deployment.
+I build and lead complex AI, cloud, WebRTC, and real-time systems. I work at the intersection of architecture, engineering execution, product strategy, and customer trust—bridging the gap between conceptual design and production reality.
 
 ### CURRENT FOCUS
-* Operating an independent consulting practice for cloud and AI architecture.
-* Developing systems and technical platforms that bridge complex data structures with functional design.
-* Writing on technical architecture, systems engineering, and technology leadership.
+* **[TomatoRTC](https://nat.io):** Founder and architect. Building a programmable participant fabric for humans, AI agents, devices, browsers, and services operating in one coordinated real-time system.
+* **Engineering Leadership:** Serving across CTO, VP Engineering, Chief Architect, and advisory mandates where technical complexity has become a product or delivery challenge.
 
-### WRITING & THOUGHTS
-I regularly publish technical insights and architectural perspectives on my blog. 
-* Read my latest writing at **[nat.io](https://nat.io)**
+### TECHNICAL EXPERTISE
+* **Real-Time Infrastructure:** WebRTC, live participant fabrics, and scalable concurrent systems.
+* **Applied AI:** Moving beyond demos to AI systems engineering, governance, and evaluation (RAG, shadow AI, LLM grounding).
+* **Cloud Architecture:** Designing resilient, high-availability environments for enterprise and specialized use cases.
+
+### RECENT FIELD NOTES
+I write about technology, creative practice, and the small systems that shape a meaningful life at **[nat.io](https://nat.io)**. 
+* [AI Code Has a Conversation Debt](https://nat.io)
+* [Rate Limiting Is Not a Counter. It Is a Real-Time Governance System.](https://nat.io)
+* [RAG Didn't Solve AI. It Made AI a Systems Engineering Problem.](https://nat.io)
 
 ### CONNECT
-* **Consulting & Portfolio:** [nathanielcurrier.com](https://nathanielcurrier.com)
-* **Writing & Blog:** [nat.io](https://nat.io)
+* **Systems Practice & Consulting:** [nathanielcurrier.com](https://nathanielcurrier.com)
+* **Blog, Briefs & Creative Practice:** [nat.io](https://nat.io)
 
 ---
-*Building infrastructure that thinks.*
+*Technology matters when it expands human agency.*
