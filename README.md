@@ -3,6 +3,10 @@
 
 I build and lead complex AI, cloud, WebRTC, and real-time systems. I work at the intersection of architecture, engineering execution, product strategy, and customer trust—bridging the gap between conceptual design and production reality.
 
+
+### CURRENT ROLE
+* Principal Architect @ Kleis Commerce - Taipei, Taiwan
+
 ### CURRENT FOCUS
 * **[TomatoRTC](https://nat.io):** Founder and architect. Building a programmable participant fabric for humans, AI agents, devices, browsers, and services operating in one coordinated real-time system.
 * **Engineering Leadership:** Serving across CTO, VP Engineering, Chief Architect, and advisory mandates where technical complexity has become a product or delivery challenge.
